@@ -35,5 +35,6 @@ Não se preocupe em terminar todo o teste. Procure finalizar cada requisito ante
 
 ### Diferencial
 
+- MockServer;
 - Docker;
 - Testes.
